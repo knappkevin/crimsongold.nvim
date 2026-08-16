@@ -1,19 +1,13 @@
 # crimsongold.nvim
 
-A dark **crimson & gold** colorscheme for Neovim, built from the
-[Omarchy](https://github.com/basecamp/omarchy) `crimson-gold` theme
-(Spicetify *Starry Night – Sunrise* inspired): deep crimson-black backgrounds,
-a gold accent family, and rose tones.
+A dark **crimson & gold** colorscheme for Neovim, based on my
+[Crimson Gold](https://github.com/knappkevin/omarchy-crimson-gold-theme) theme.
+
+![Preview](assets/example.png)
 
 ## Palette
 
 ![Palette](assets/palette.svg)
-
-## Showcase
-
-![Showcase](assets/showcase.svg)
-
-![UI highlights](assets/ui.svg)
 
 ## Install
 

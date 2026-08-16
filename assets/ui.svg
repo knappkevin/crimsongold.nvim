@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="92" viewBox="0 0 700 92">
+<rect width="700" height="92" fill="#0C0101"/>
+<rect x="1" y="1" width="698" height="90" rx="8" fill="none" stroke="#baa007" stroke-width="1.5"/>
+<rect x="30" y="32" width="60" height="28" rx="5" fill="#121212"/>
+<rect x="170" y="32" width="60" height="28" rx="5" fill="#DBB42C"/>
+<rect x="310" y="32" width="60" height="28" rx="5" fill="#770000"/>
+<rect x="450" y="32" width="60" height="28" rx="5" fill="#1c1c1c"/>
+<text x="30" y="22" font-family="monospace" font-size="12" fill="#bebebe">Background</text>
+<text x="170" y="22" font-family="monospace" font-size="12" fill="#bebebe">Search</text>
+<text x="310" y="22" font-family="monospace" font-size="12" fill="#bebebe">Selection</text>
+<text x="450" y="22" font-family="monospace" font-size="12" fill="#bebebe">Cursor line</text>
+<text x="30" y="80" font-family="monospace" font-size="11" fill="#8a8a8d">#121212</text>
+<text x="170" y="80" font-family="monospace" font-size="11" fill="#8a8a8d">#DBB42C</text>
+<text x="310" y="80" font-family="monospace" font-size="11" fill="#8a8a8d">#770000</text>
+<text x="450" y="80" font-family="monospace" font-size="11" fill="#8a8a8d">#1c1c1c</text>
+</svg>
